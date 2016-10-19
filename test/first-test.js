@@ -1,4 +1,4 @@
-// first-test. again.
+// first-test. again. and again.
 
 var assert = require('assert');
 describe('Array', function() {
